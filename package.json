@@ -1,0 +1,22 @@
+{
+  "name": "gildee",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "next": "13.1.6",
+    "popper.js": "^1.16.1",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.1",
+    "react-dom": "18.2.0",
+    "reactstrap": "^9.1.5"
+  }
+}
